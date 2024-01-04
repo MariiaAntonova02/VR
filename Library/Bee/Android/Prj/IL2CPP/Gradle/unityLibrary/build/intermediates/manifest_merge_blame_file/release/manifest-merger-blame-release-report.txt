@@ -1,0 +1,400 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="29"
+7-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+8        android:targetSdkVersion="34" />
+8-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+9
+10    <uses-permission android:name="android.permission.INTERNET" />
+10-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-65
+10-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:20-62
+11
+12    <uses-feature android:glEsVersion="0x00030000" />
+12-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-52
+12-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:17-49
+13    <uses-feature
+13-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-91
+14        android:name="android.hardware.vulkan.version"
+14-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:17-63
+15        android:required="false" />
+15-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:64-88
+16    <uses-feature
+16-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-88
+17        android:name="android.hardware.touchscreen"
+17-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-60
+18        android:required="false" />
+18-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:61-85
+19    <uses-feature
+19-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-99
+20        android:name="android.hardware.touchscreen.multitouch"
+20-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-71
+21        android:required="false" />
+21-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:72-96
+22    <uses-feature
+22-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-108
+23        android:name="android.hardware.touchscreen.multitouch.distinct"
+23-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:17-80
+24        android:required="false" />
+24-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:81-105
+25
+26    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+26-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:69:3-71
+26-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:69:20-68
+27
+28    <application
+28-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:3-68:17
+29        android:extractNativeLibs="true"
+29-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:16-48
+30        android:requestLegacyExternalStorage="true" >
+30-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:49-92
+31        <meta-data
+31-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:5-69
+32            android:name="unity.splash-mode"
+32-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:16-48
+33            android:value="0" />
+33-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:49-66
+34        <meta-data
+34-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:5-74
+35            android:name="unity.splash-enable"
+35-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:16-50
+36            android:value="True" />
+36-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:51-71
+37        <meta-data
+37-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-78
+38            android:name="unity.launch-fullscreen"
+38-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-54
+39            android:value="True" />
+39-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:55-75
+40        <meta-data
+40-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-84
+41            android:name="unity.allow-resizable-window"
+41-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-59
+42            android:value="False" />
+42-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:60-81
+43        <meta-data
+43-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-81
+44            android:name="notch.config"
+44-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-43
+45            android:value="portrait|landscape" />
+45-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:44-78
+46        <meta-data
+46-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-84
+47            android:name="unity.auto-report-fully-drawn"
+47-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-60
+48            android:value="true" />
+48-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:61-81
+49
+50        <activity
+50-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-23:16
+51            android:name="com.unity3d.player.UnityPlayerActivity"
+51-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:15-68
+52            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+52-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:181-362
+53            android:exported="true"
+53-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:434-457
+54            android:hardwareAccelerated="false"
+54-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:398-433
+55            android:launchMode="singleTask"
+55-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:149-180
+56            android:resizeableActivity="false"
+56-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:363-397
+57            android:screenOrientation="landscape"
+57-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:111-148
+58            android:theme="@style/UnityThemeSelector" >
+58-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:69-110
+59            <intent-filter>
+59-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:7-20:23
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:9-69
+60-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:19-66
+61
+62                <action android:name="android.intent.action.MAIN" />
+62-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:9-61
+62-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:17-58
+63            </intent-filter>
+64
+65            <meta-data
+65-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:7-82
+66                android:name="unityplayer.UnityActivity"
+66-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:18-58
+67                android:value="true" />
+67-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:59-79
+68            <meta-data
+68-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:7-70
+69                android:name="notch_support"
+69-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:18-46
+70                android:value="true" />
+70-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:47-67
+71        </activity>
+72
+73        <meta-data
+73-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:5-93
+74            android:name="pvr.app.id"
+74-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:16-41
+75            android:value="914b2d933e06706d8d33446fdb401357" />
+75-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:42-90
+76        <meta-data
+76-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:5-83
+77            android:name="use_record_highlight_feature"
+77-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:16-59
+78            android:value="True" />
+78-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:60-80
+79        <meta-data
+79-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:5-65
+80            android:name="pvr.app.type"
+80-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:16-43
+81            android:value="vr" />
+81-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:44-62
+82        <meta-data
+82-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:5-83
+83            android:name="pvr.sdk.version"
+83-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:16-46
+84            android:value="XR Platform_2.3.4" />
+84-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:47-80
+85        <meta-data
+85-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:5-62
+86            android:name="enable_cpt"
+86-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:16-41
+87            android:value="0" />
+87-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:42-59
+88        <meta-data
+88-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:5-64
+89            android:name="handtracking"
+89-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:16-43
+90            android:value="0" />
+90-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:44-61
+91        <meta-data
+91-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:5-66
+92            android:name="rendering_mode"
+92-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:16-45
+93            android:value="0" />
+93-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:46-63
+94        <meta-data
+94-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:5-64
+95            android:name="display_rate"
+95-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:16-43
+96            android:value="0" />
+96-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:44-61
+97        <meta-data
+97-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:5-63
+98            android:name="color_Space"
+98-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:16-42
+99            android:value="1" />
+99-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:43-60
+100        <meta-data
+100-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:5-62
+101            android:name="MRCsupport"
+101-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:16-41
+102            android:value="1" />
+102-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:42-59
+103        <meta-data
+103-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:5-68
+104            android:name="pvr.LateLatching"
+104-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:16-47
+105            android:value="0" />
+105-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:48-65
+106        <meta-data
+106-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:35:5-73
+107            android:name="pvr.LateLatchingDebug"
+107-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:35:16-52
+108            android:value="0" />
+108-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:35:53-70
+109        <meta-data
+109-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:5-66
+110            android:name="pvr.app.splash"
+110-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:16-45
+111            android:value="0" />
+111-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:46-63
+112        <meta-data
+112-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:37:5-70
+113            android:name="PICO.swift.feature"
+113-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:37:16-49
+114            android:value="0" />
+114-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:37:50-67
+115        <meta-data
+115-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:38:5-71
+116            android:name="adaptive_resolution"
+116-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:38:16-50
+117            android:value="0" />
+117-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:38:51-68
+118        <meta-data
+118-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:39:5-66
+119            android:name="mr_map_require"
+119-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:39:16-45
+120            android:value="0" />
+120-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:39:46-63
+121        <meta-data
+121-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:40:5-61
+122            android:name="enable_mr"
+122-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:40:16-40
+123            android:value="0" />
+123-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:40:41-58
+124        <meta-data
+124-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:41:5-62
+125            android:name="enable_vst"
+125-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:41:16-41
+126            android:value="0" />
+126-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:41:42-59
+127        <meta-data
+127-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:42:5-65
+128            android:name="enable_anchor"
+128-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:42:16-44
+129            android:value="0" />
+129-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:42:45-62
+130        <meta-data
+130-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:43:5-73
+131            android:name="mr_map_mgr_auto_start"
+131-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:43:16-52
+132            android:value="0" />
+132-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:43:53-70
+133        <meta-data
+133-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:5-93
+134            android:name="pvr.app.id"
+134-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:16-41
+135            android:value="914b2d933e06706d8d33446fdb401357" />
+135-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:42-90
+136        <meta-data
+136-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:5-83
+137            android:name="use_record_highlight_feature"
+137-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:16-59
+138            android:value="True" />
+138-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:60-80
+139        <meta-data
+139-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:5-93
+140            android:name="pvr.app.id"
+140-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:16-41
+141            android:value="914b2d933e06706d8d33446fdb401357" />
+141-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:42-90
+142        <meta-data
+142-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:5-83
+143            android:name="use_record_highlight_feature"
+143-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:16-59
+144            android:value="True" />
+144-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:60-80
+145        <meta-data
+145-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:5-93
+146            android:name="pvr.app.id"
+146-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:16-41
+147            android:value="914b2d933e06706d8d33446fdb401357" />
+147-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:42-90
+148        <meta-data
+148-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:5-83
+149            android:name="use_record_highlight_feature"
+149-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:16-59
+150            android:value="True" />
+150-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:60-80
+151        <meta-data
+151-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:5-93
+152            android:name="pvr.app.id"
+152-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:16-41
+153            android:value="914b2d933e06706d8d33446fdb401357" />
+153-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:42-90
+154        <meta-data
+154-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:5-83
+155            android:name="use_record_highlight_feature"
+155-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:16-59
+156            android:value="True" />
+156-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:60-80
+157        <meta-data
+157-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:5-93
+158            android:name="pvr.app.id"
+158-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:16-41
+159            android:value="914b2d933e06706d8d33446fdb401357" />
+159-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:42-90
+160        <meta-data
+160-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:5-83
+161            android:name="use_record_highlight_feature"
+161-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:16-59
+162            android:value="True" />
+162-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:60-80
+163        <meta-data
+163-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:5-93
+164            android:name="pvr.app.id"
+164-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:16-41
+165            android:value="914b2d933e06706d8d33446fdb401357" />
+165-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:42-90
+166        <meta-data
+166-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:5-83
+167            android:name="use_record_highlight_feature"
+167-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:16-59
+168            android:value="True" />
+168-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:60-80
+169        <meta-data
+169-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:5-93
+170            android:name="pvr.app.id"
+170-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:16-41
+171            android:value="914b2d933e06706d8d33446fdb401357" />
+171-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:42-90
+172        <meta-data
+172-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:5-83
+173            android:name="use_record_highlight_feature"
+173-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:16-59
+174            android:value="True" />
+174-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:60-80
+175        <meta-data
+175-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:5-93
+176            android:name="pvr.app.id"
+176-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:16-41
+177            android:value="914b2d933e06706d8d33446fdb401357" />
+177-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:42-90
+178        <meta-data
+178-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:5-83
+179            android:name="use_record_highlight_feature"
+179-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:16-59
+180            android:value="True" />
+180-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:60-80
+181        <meta-data
+181-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:5-93
+182            android:name="pvr.app.id"
+182-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:16-41
+183            android:value="914b2d933e06706d8d33446fdb401357" />
+183-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:42-90
+184        <meta-data
+184-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:5-83
+185            android:name="use_record_highlight_feature"
+185-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:16-59
+186            android:value="True" />
+186-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:60-80
+187        <meta-data
+187-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:5-93
+188            android:name="pvr.app.id"
+188-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:16-41
+189            android:value="914b2d933e06706d8d33446fdb401357" />
+189-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:42-90
+190        <meta-data
+190-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:5-83
+191            android:name="use_record_highlight_feature"
+191-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:16-59
+192            android:value="True" />
+192-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:60-80
+193        <meta-data
+193-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:5-93
+194            android:name="pvr.app.id"
+194-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:16-41
+195            android:value="914b2d933e06706d8d33446fdb401357" />
+195-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:42-90
+196        <meta-data
+196-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:5-83
+197            android:name="use_record_highlight_feature"
+197-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:16-59
+198            android:value="True" />
+198-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:60-80
+199        <meta-data
+199-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:5-93
+200            android:name="pvr.app.id"
+200-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:16-41
+201            android:value="914b2d933e06706d8d33446fdb401357" />
+201-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:42-90
+202        <meta-data
+202-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:5-83
+203            android:name="use_record_highlight_feature"
+203-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:16-59
+204            android:value="True" />
+204-->C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:60-80
+205    </application>
+206
+207</manifest>

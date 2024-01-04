@@ -1,0 +1,3 @@
+Packages\PICO Unity Integration SDK 230\Runtime\Scripts\PXR_Manager.cs(21,7): warning CS0105: The using directive for 'System.Collections.Generic' appeared previously in this namespace
+Packages\PICO Unity Integration SDK 230\Runtime\Scripts\Utils\LitJson\JsonWriter.cs(387,21): warning CS3021: 'JsonWriter.Write(ulong)' does not need a CLSCompliant attribute because the assembly does not have a CLSCompliant attribute
+Packages\PICO Unity Integration SDK 230\Runtime\Scripts\PXR_Plugin.cs(1625,28): warning CS0414: The field 'PXR_Plugin.PXR_API_Version' is assigned but its value is never used

@@ -1,0 +1,8 @@
+Packages\PICO Unity Integration SDK 230\Runtime\Scripts\PXR_Manager.cs(21,7): warning CS0105: The using directive for 'System.Collections.Generic' appeared previously in this namespace
+Packages\PICO Unity Integration SDK 230\Runtime\Scripts\Utils\LitJson\JsonWriter.cs(387,21): warning CS3021: 'JsonWriter.Write(ulong)' does not need a CLSCompliant attribute because the assembly does not have a CLSCompliant attribute
+Packages\PICO Unity Integration SDK 230\Runtime\Scripts\PXR_Plugin.cs(3791,17): warning CS0162: Unreachable code detected
+Packages\PICO Unity Integration SDK 230\Runtime\Scripts\PXR_Plugin.cs(3799,17): warning CS0162: Unreachable code detected
+Packages\PICO Unity Integration SDK 230\Runtime\Scripts\PXR_Plugin.cs(3806,17): warning CS0162: Unreachable code detected
+Packages\PICO Unity Integration SDK 230\Runtime\Scripts\PXR_Plugin.cs(3813,17): warning CS0162: Unreachable code detected
+Packages\PICO Unity Integration SDK 230\Runtime\Scripts\PXR_Plugin.cs(3138,21): warning CS0219: The variable 'ret' is assigned but its value is never used
+Packages\PICO Unity Integration SDK 230\Runtime\Scripts\PXR_Plugin.cs(2455,17): warning CS0162: Unreachable code detected

@@ -1,0 +1,320 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-207:12
+MERGED from [:PxrPlatform:] C:\Users\vrstudents\.gradle\caches\transforms-3\d34961dd7ddb9775eec09597e4d40d1c\transformed\PxrPlatform\AndroidManifest.xml:2:1-10:12
+MERGED from [:pxr_api-release:] C:\Users\vrstudents\.gradle\caches\transforms-3\8a8651db2954bb62a001da9884acc9ae\transformed\pxr_api-release\AndroidManifest.xml:2:1-11:12
+MERGED from [:tobservicelib:] C:\Users\vrstudents\.gradle\caches\transforms-3\b725ffb279ffe4bf2fadf1d807a368c6\transformed\tobservicelib\AndroidManifest.xml:2:1-9:12
+MERGED from [:unityLibrary:xrmanifest.androidlib] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:70-100
+		INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:101-147
+	android:versionCode
+		INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:148-188
+application
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+MERGED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:5-205:19
+MERGED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:5-205:19
+MERGED from [:pxr_api-release:] C:\Users\vrstudents\.gradle\caches\transforms-3\8a8651db2954bb62a001da9884acc9ae\transformed\pxr_api-release\AndroidManifest.xml:9:5-48
+MERGED from [:pxr_api-release:] C:\Users\vrstudents\.gradle\caches\transforms-3\8a8651db2954bb62a001da9884acc9ae\transformed\pxr_api-release\AndroidManifest.xml:9:5-48
+MERGED from [:unityLibrary:xrmanifest.androidlib] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-12:19
+MERGED from [:unityLibrary:xrmanifest.androidlib] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-12:19
+	android:requestLegacyExternalStorage
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:9-52
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:9-41
+	android:label
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
+	android:allowBackup
+		ADDED from [:pxr_api-release:] C:\Users\vrstudents\.gradle\caches\transforms-3\8a8651db2954bb62a001da9884acc9ae\transformed\pxr_api-release\AndroidManifest.xml:9:18-45
+	android:icon
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-80
+supports-screens
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+uses-sdk
+INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
+MERGED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
+MERGED from [:PxrPlatform:] C:\Users\vrstudents\.gradle\caches\transforms-3\d34961dd7ddb9775eec09597e4d40d1c\transformed\PxrPlatform\AndroidManifest.xml:6:5-8:41
+MERGED from [:PxrPlatform:] C:\Users\vrstudents\.gradle\caches\transforms-3\d34961dd7ddb9775eec09597e4d40d1c\transformed\PxrPlatform\AndroidManifest.xml:6:5-8:41
+MERGED from [:pxr_api-release:] C:\Users\vrstudents\.gradle\caches\transforms-3\8a8651db2954bb62a001da9884acc9ae\transformed\pxr_api-release\AndroidManifest.xml:5:5-7:41
+MERGED from [:pxr_api-release:] C:\Users\vrstudents\.gradle\caches\transforms-3\8a8651db2954bb62a001da9884acc9ae\transformed\pxr_api-release\AndroidManifest.xml:5:5-7:41
+MERGED from [:tobservicelib:] C:\Users\vrstudents\.gradle\caches\transforms-3\b725ffb279ffe4bf2fadf1d807a368c6\transformed\tobservicelib\AndroidManifest.xml:5:5-7:41
+MERGED from [:tobservicelib:] C:\Users\vrstudents\.gradle\caches\transforms-3\b725ffb279ffe4bf2fadf1d807a368c6\transformed\tobservicelib\AndroidManifest.xml:5:5-7:41
+MERGED from [:unityLibrary:xrmanifest.androidlib] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:unityLibrary:xrmanifest.androidlib] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-64
+uses-feature#0x00030000
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:9-55
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:23:9-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:5-73
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:22-70
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:9-33:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:33:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:32:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:9-36:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:9-39:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-51
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:9-42:37
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:13-34
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:41:13-56
+meta-data#notch.config
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:43:9-45:50
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:45:13-47
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:44:13-40
+meta-data#unity.auto-report-fully-drawn
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:46:9-48:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:48:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:47:13-57
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:50:9-71:20
+MERGED from [:unityLibrary:xrmanifest.androidlib] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-11:20
+MERGED from [:unityLibrary:xrmanifest.androidlib] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-11:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:57:13-50
+	android:launchMode
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:55:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:54:13-48
+	android:exported
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:53:13-36
+	android:resizeableActivity
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:56:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:52:13-194
+	android:theme
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:58:13-54
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:51:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:59:13-63:29
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:60:17-77
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:60:27-74
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:62:17-69
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:62:25-66
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:65:13-67:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:67:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:66:17-57
+meta-data#notch_support
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:68:13-70:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:70:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:69:17-45
+meta-data#pvr.app.id
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:73:9-75:64
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:75:13-61
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:74:13-38
+meta-data#use_record_highlight_feature
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:76:9-78:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:78:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:77:13-56
+meta-data#pvr.app.type
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:79:9-81:34
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:81:13-31
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:80:13-40
+meta-data#pvr.sdk.version
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:82:9-84:49
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:84:13-46
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:83:13-43
+meta-data#enable_cpt
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:85:9-87:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:87:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:86:13-38
+meta-data#handtracking
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:88:9-90:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:90:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:89:13-40
+meta-data#rendering_mode
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:91:9-93:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:93:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:92:13-42
+meta-data#display_rate
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:94:9-96:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:96:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:95:13-40
+meta-data#color_Space
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:97:9-99:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:99:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:98:13-39
+meta-data#MRCsupport
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:100:9-102:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:102:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:101:13-38
+meta-data#pvr.LateLatching
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:103:9-105:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:105:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:104:13-44
+meta-data#pvr.LateLatchingDebug
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:106:9-108:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:108:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:107:13-49
+meta-data#pvr.app.splash
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:109:9-111:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:111:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:110:13-42
+meta-data#PICO.swift.feature
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:112:9-114:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:114:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:113:13-46
+meta-data#adaptive_resolution
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:115:9-117:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:117:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:116:13-47
+meta-data#mr_map_require
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:118:9-120:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:120:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:119:13-42
+meta-data#enable_mr
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:121:9-123:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:123:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:122:13-37
+meta-data#enable_vst
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:124:9-126:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:126:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:125:13-38
+meta-data#enable_anchor
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:127:9-129:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:129:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:128:13-41
+meta-data#mr_map_mgr_auto_start
+ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:130:9-132:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:132:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:131:13-49

@@ -1,0 +1,265 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-70:12
+	package
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:70-98
+		INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:99-145
+	xmlns:android
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-65
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:20-62
+uses-feature#0x00030000
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-52
+	android:glEsVersion
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:17-49
+uses-feature#android.hardware.vulkan.version
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-91
+	android:required
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:64-88
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:17-63
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-88
+	android:required
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:61-85
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-99
+	android:required
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:72-96
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-108
+	android:required
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:81-105
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:17-80
+application
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:3-68:17
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:49-92
+	android:extractNativeLibs
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:16-48
+meta-data#unity.splash-mode
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:5-69
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:49-66
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:16-48
+meta-data#unity.splash-enable
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:5-74
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:51-71
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:16-50
+meta-data#unity.launch-fullscreen
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-78
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:55-75
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-54
+meta-data#unity.allow-resizable-window
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-84
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:60-81
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-59
+meta-data#notch.config
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-81
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:44-78
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-43
+meta-data#unity.auto-report-fully-drawn
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-84
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:61-81
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-60
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-23:16
+	android:screenOrientation
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:111-148
+	android:launchMode
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:149-180
+	android:hardwareAccelerated
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:398-433
+	android:exported
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:434-457
+	android:resizeableActivity
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:363-397
+	android:configChanges
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:181-362
+	android:theme
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:69-110
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:7-20:23
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:9-69
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:19-66
+action#android.intent.action.MAIN
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:9-61
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:17-58
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:7-82
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:59-79
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:18-58
+meta-data#notch_support
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:7-70
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:47-67
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:18-46
+meta-data#pvr.app.id
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:5-93
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:42-90
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:16-41
+meta-data#use_record_highlight_feature
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:5-83
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:60-80
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:16-59
+meta-data#pvr.app.type
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:5-65
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:44-62
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:16-43
+meta-data#pvr.sdk.version
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:5-83
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:47-80
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:16-46
+meta-data#enable_cpt
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:5-62
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:42-59
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:16-41
+meta-data#handtracking
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:5-64
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:44-61
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:16-43
+meta-data#rendering_mode
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:5-66
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:46-63
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:16-45
+meta-data#display_rate
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:5-64
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:44-61
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:16-43
+meta-data#color_Space
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:5-63
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:43-60
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:16-42
+meta-data#MRCsupport
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:5-62
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:42-59
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:16-41
+meta-data#pvr.LateLatching
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:5-68
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:48-65
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:16-47
+meta-data#pvr.LateLatchingDebug
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:35:5-73
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:35:53-70
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:35:16-52
+meta-data#pvr.app.splash
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:5-66
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:46-63
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:16-45
+meta-data#PICO.swift.feature
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:37:5-70
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:37:50-67
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:37:16-49
+meta-data#adaptive_resolution
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:38:5-71
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:38:51-68
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:38:16-50
+meta-data#mr_map_require
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:39:5-66
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:39:46-63
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:39:16-45
+meta-data#enable_mr
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:40:5-61
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:40:41-58
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:40:16-40
+meta-data#enable_vst
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:41:5-62
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:41:42-59
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:41:16-41
+meta-data#enable_anchor
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:42:5-65
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:42:45-62
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:42:16-44
+meta-data#mr_map_mgr_auto_start
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:43:5-73
+	android:value
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:43:53-70
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:43:16-52
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:69:3-71
+	android:name
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:69:20-68
+uses-sdk
+INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vrstudents\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
